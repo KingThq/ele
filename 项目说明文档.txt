@@ -1,0 +1,8 @@
+1、mange:后台管理
+    src:
+        components:组件
+        views:路由组件
+        App.vue:管理界面
+
+2、site:前端展示。
+3、api:接口
