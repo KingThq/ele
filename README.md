@@ -1,6 +1,7 @@
 # ele
 A vue project  to practice it.
 
+# 到此一游
 用vue-cli结合vuex和路由开发的单页面应用，后端用node.js完成。  
 api：接口相关。   
 manage：后台管理。  
